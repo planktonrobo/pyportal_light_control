@@ -1,7 +1,7 @@
 # pyportal_light_control
-Control light (or any output) schedule with CircuitPython 
+Control light (or any output) schedule with CircuitPython. 
 
-This project uses an IOT Power Relay, and pyportal to automate the schedule of anything plugged into the relay. 
+This project uses an IOT Power Relay, and pyportal to automate the schedule of anything plugged into the relay by checking the time from the internet. 
 
 | Part        | Link           | 
 | ------------- |:-------------:| 
