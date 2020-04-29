@@ -18,3 +18,5 @@ This project uses an IOT Power Relay, and pyportal to automate the schedule of a
 | STEMMA to JST  | https://www.adafruit.com/product/3893  |
 
 I just soldered JST to the pyportal STEMMA connector but it was a little uglier than I prefer. 
+
+Garden I used:https://www.thingiverse.com/thing:3405964
