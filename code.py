@@ -286,7 +286,7 @@ board.DISPLAY.show(splash)
 localtime_refresh= time.monotonic()
 # ------------- Code Loop ------------- #
 while True:
-    if (not localtime_refresh) or (time.monotonic() - localtime_refresh) > 600: # check internet time every 10 minutes
+    if (not localtime_refresh) or (time.monotonic() - localtime_refresh) > 60: # check internet time every minute
         print("Getting time from internet!")
         try:
             pyportal.get_local_time()
