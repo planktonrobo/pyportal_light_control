@@ -378,7 +378,6 @@ while True:
                         b.selected = False
                         button_icon.selected = False
                         button_icon3.selected = False
-                        print("18/6")
                     # for debounce
                     while ts.touch_point:
                         pass
@@ -398,7 +397,6 @@ while True:
                         b.selected = False
                         button_icon.selected = False
                         button_icon2.selected = False
-                        print("20/4 off")
                     # for debounce
                     while ts.touch_point:
                         pass
